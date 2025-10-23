@@ -35,7 +35,17 @@ The project consists of two main codes:
 ---
 
 ## 🖼️ Circuit Overview
-![Circuit Diagram](images/circuit.png)
+Here’s the connection diagram of the project:
+
+![Circuit Diagram](images/circuit_diagram.jpg)
+
+---
+
+## ⚙️ Final System Setup
+This is the final assembled system with all components connected:
+
+![System Setup](images/system_setup.jpg)
+
 
 ---
 
@@ -65,5 +75,6 @@ B: 45
 Developed by **Abdelaziz Hassan**
 
 **Tags:** Arduino, TCS3200, Color Sensor, RGB LED, LCD, Embedded Systems
+
 
 
